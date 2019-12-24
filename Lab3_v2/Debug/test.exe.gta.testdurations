@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Executable>D:\Study\Инфа\OOP\Lab3\Lab3_v2\Debug\test.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="element_construtor.element_construtor_default_constructor__Test" Duration="1" />
+    <TestDuration Test="element_construtor.element_construtor_init_constructor1__Test" Duration="1" />
+    <TestDuration Test="element_construtor.element_construtor_init_constructor2__Test" Duration="1" />
+    <TestDuration Test="element_construtor.element_construtor_init_constructor3__Test" Duration="1" />
+    <TestDuration Test="setters.setters_connect_conn_Test" Duration="1" />
+    <TestDuration Test="setters.setters_set_conn_state__Test" Duration="1" />
+    <TestDuration Test="setters.setters_disconnect_conn_Test" Duration="1" />
+    <TestDuration Test="setters.setters_add_conn_Test" Duration="1" />
+    <TestDuration Test="setters.setters_delete_conn_Test" Duration="1" />
+    <TestDuration Test="IOoperator.input_operator_Test" Duration="1" />
+    <TestDuration Test="IOoperator.output_operator_test" Duration="1" />
+  </TestDurations>
+</GtaTestDurations>
